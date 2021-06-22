@@ -1,6 +1,6 @@
 ## Welcome to my homepage!
 
-### About me
+## About me
 
 <table border="0">
   <tr>
@@ -18,4 +18,4 @@
 </table>
 
 
-### Current work
+## Current work
