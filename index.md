@@ -12,7 +12,7 @@
       <p><b>add: ICCUB</b></p>
     </td>
     <td width="25%">
-      <img src="/luzujia_github.png" width="100%">      % photo
+      <img src="/luzujia_github1.png" width="100%"> 
     </td>
   </tr>
 </table>
