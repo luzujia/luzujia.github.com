@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: Zujia Lu
 description: Institute of Cosmos Sciences, University of Barcelona
+show_downloads: true
+google_analytics:
 
 
