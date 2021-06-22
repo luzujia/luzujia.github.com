@@ -5,7 +5,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <><h1>Zujia Lu</h1>
+      <h1>Zujia Lu</h1>
       <p><b>PhD candidate</b></p>
       <p><b>University of Barcelona</b></p>
       <p><b>email：luzujia@icc.ub.edu</b></p>
